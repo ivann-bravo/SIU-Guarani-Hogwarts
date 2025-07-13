@@ -63,7 +63,7 @@ Este proyecto fue desarrollado utilizando el IDE Code::Blocks.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/ivann-bravo/siu-guarani-hogwarts.git](https://github.com/ivann-bravo/siu-guarani-hogwarts.git)
+    git clone https://github.com/ivann-bravo/siu-guarani-hogwarts.git
     cd siu-guarani-hogwarts
     ```
 
